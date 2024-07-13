@@ -25,7 +25,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Desktop
+![](./Screenshots/Desktop.png)
+
+Desktop Active
+![](./Screenshots/desktop%20active.png)
+
+Mobile
+![](./Screenshots/Mobile(Samsung%20Galaxy%20S20%20Ultra).png)
 
 
 
@@ -48,6 +55,6 @@ Users should be able to:
 ## Author
 
 
-- Frontend Mentor - [@Y-ashbhatt(https://www.frontendmentor.io/profile/Y-ashbhatt)]
+- Frontend Mentor - [@Y-ashbhatt](https://www.frontendmentor.io/profile/Y-ashbhatt)
 - Twitter - [@yash_bhatt01](https://x.com/yash_bhatt01)
 
